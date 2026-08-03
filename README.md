@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alekseylekontsev
-- 👀 I’m interested in IT operations and security
-- 🌱 I’m currently learning security automation
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m DPO Aleksey Lekontsev
+- 👀 I’m interested in IT Operations and Security
+- 🌱 I’m Delivering Agentic GRC
+- 💞️ I’m looking to collaborate on AI&Agentic security
 - 📫 How to reach me - mail a.le_subscriptions@outlook.com
 
 <!---
