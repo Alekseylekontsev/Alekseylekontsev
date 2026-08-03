@@ -1,8 +1,7 @@
 - 👋 Hi, I’m DPO Aleksey Lekontsev
-- 👀 I’m interested in IT Operations and Security
+- 👀 AI Security & GRC Engineer | Fractional CISO / DPO | Security Automation, Privacy & Cloud Governance
 - 🌱 I’m Delivering Agentic GRC
-- 💞️ I’m looking to collaborate on AI&Agentic security
-- 📫 How to reach me - mail a.le_subscriptions@outlook.com
+- 📫 [https://www.linkedin.com/in/aleksey-lekontsev-dpo/]
 
 <!---
 Alekseylekontsev/Alekseylekontsev is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
