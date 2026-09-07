@@ -1,5 +1,5 @@
-- 👋 Hi, I’m DPO Aleksey Lekontsev
-- 👀 AI Security & GRC Engineer | Fractional CISO / DPO | Security Automation, Privacy & Cloud Governance
+- 👋 Hi, I’m Aleksey Lekontsev Advisory
+- 👀 AI Security & GRC Consultant | Fractional CISO / DPO | Security Automation, Privacy & Cloud Governance
 - 🌱 I’m Delivering Agentic GRC
 - 📫 [https://www.linkedin.com/in/aleksey-lekontsev-dpo/]
 
